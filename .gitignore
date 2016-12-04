@@ -2,3 +2,8 @@
 *.ipynb_checkpoints
 base/hw03/data
 *.pyc
+trends/hw4/my beloved_network
+*.cache/heamy
+trends/hw4/cifar-10-python.tar.gz
+trends/hw4/cifar10/
+*.cache/heamy*
